@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Examen_Gabriel</string>
+    <string name="mercurio">
+        <nombre>mercurio</nombre>
+        <tipoPlaneta>gaseoso</tipoPlaneta>
+    </string>
+    <string name="jupiter">
+        <nombre>mercurio</nombre>
+        <tipoPlaneta>gaseoso</tipoPlaneta>
+    </string>
+    <string name="saturno">
+        <nombre>mercurio</nombre>
+        <tipoPlaneta>gaseoso</tipoPlaneta>
+    </string><string name="nepturno">
+        <nombre>mercurio</nombre>
+        <tipoPlaneta>gaseoso</tipoPlaneta>
+    </string><string name="urano">
+        <nombre>mercurio</nombre>
+        <tipoPlaneta>gaseoso</tipoPlaneta>
+    </string><string name="marte">
+        <nombre>mercurio</nombre>
+        <tipoPlaneta>gaseoso</tipoPlaneta>
+    </string>
+
+
+
+
+</resources>
